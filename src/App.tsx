@@ -101,15 +101,16 @@ export default function App() {
         className="w-full max-w-4xl z-10 flex flex-col items-center mt-4"
       >
         {/* Header */}
-        <div className="text-center mb-10 md:mb-14 w-full">
-          <motion.div 
+        
+<div className="text-center mb-10 md:mb-14 w-full">
+          {/*<motion.div 
             initial={{ scale: 0.9, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
             transition={{ delay: 0.2, duration: 0.5 }}
             className="inline-flex items-center justify-center p-3.5 mb-6 rounded-2xl bg-white/[0.03] border border-white/10 shadow-[0_0_30px_rgba(34,211,238,0.15)] backdrop-blur-xl"
           >
             <ImageIcon className="w-8 h-8 text-cyan-400" />
-          </motion.div>
+          </motion.div>*/}
           <h1 className="text-4xl md:text-5xl lg:text-7xl font-poppins font-black mb-6 tracking-tight leading-tight uppercase">
             YT Thumbnail <br className="hidden sm:block"/>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
