@@ -102,7 +102,7 @@ export default function App() {
       >
         {/* Header */}
         
-<div className="text-center mb-10 md:mb-14 w-full">
+<div className=" yt-box text-center mb-10 md:mb-14 w-full">
           {/*<motion.div 
             initial={{ scale: 0.9, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
