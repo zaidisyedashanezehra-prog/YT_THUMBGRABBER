@@ -6,7 +6,7 @@
   --font-poppins: "Poppins", ui-sans-serif, system-ui, sans-serif;
 }
 
-body {
+body { 
   background-color: #0a0a0a;
   color: white;
   background-image: 
@@ -14,5 +14,8 @@ body {
     radial-gradient(circle at 85% 30%, rgba(168, 85, 247, 0.1), transparent 35%);
   min-height: 100vh;
   margin: 0;
+}
+.yt-box{
+  margin: 70px;
 }
 
